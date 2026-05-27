@@ -14,7 +14,7 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
-::: {.hero-terminal}
+::: {.hero-terminal .academic-block}
 `nanxi@casa:~$` `portfolio --open`
 
 <span class="hero-code-line">urban_planning + spatial_data + evidence_led_design</span>
@@ -22,11 +22,11 @@ library(fontawesome)
 
 Hello! Welcome to my portfolio page.
 
-I am an <span class="code-accent">urban planning</span> and <span class="code-accent">spatial data</span> student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
+I am an <span class="code-accent academic-accent">urban planning</span> and <span class="code-accent academic-accent">spatial data</span> student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
 
 [<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
 
-[About](about.qmd){.about-links .subtitle} [Coursework](coursework.qmd){.about-links .subtitle} [CV](cv.qmd){.about-links .subtitle}
+[About](about.qmd){.about-links .dynamic-link} [Coursework](coursework.qmd){.about-links .dynamic-link} [CV](cv.qmd){.about-links .dynamic-link}
 :::
 
 ## Selected Work
