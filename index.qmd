@@ -14,9 +14,15 @@ library(fontawesome)
 ```
 
 ::: {#hero-heading}
+::: {.hero-terminal}
+`nanxi@casa:~$` `portfolio --open`
+
+<span class="hero-code-line">urban_planning + spatial_data + evidence_led_design</span>
+:::
+
 Hello! Welcome to my portfolio page.
 
-I am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
+I am an <span class="code-accent">urban planning</span> and <span class="code-accent">spatial data</span> student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.
 
 [<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
 
@@ -43,11 +49,11 @@ Spatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining
 :::
 
 ::: {.project-card}
-### London Housing and Tube Connectivity
+### London Road Casualty Risk
 
-Regression analysis of whether multi-line Underground interchange stations are associated with higher London house prices, controlling for distance, property type and deprivation.
+Spatial data science project analysing road casualty risk across London MSOAs, using spatial autocorrelation, LISA clusters, OLS and Random Forest modelling.
 
-[Read report](coursework/London_Tube_PPD_Regression_2024.pdf){target="_blank"}
+[View project](dsss-road-casualty.qmd)
 :::
 :::
 

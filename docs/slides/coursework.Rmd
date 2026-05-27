@@ -73,7 +73,7 @@ class: inverse, center, middle
 <div style="display: inline-block; text-align: left;">
 TfL Vision Zero Action Plan 
 
-House Prices and London Underground
+London Road Casualty Risk
 </div>
 ---
 class: inverse, center, middle
@@ -156,94 +156,22 @@ knitr::include_graphics("../images/tfl_vision_zero_final_map.png")
 - **Land Factors**: Next steps include analyzing hotspots alongside **land use data** (commercial, residential, industrial) for holistic policy intervention.]]
 ---
 class: inverse, center, middle
-### House Prices and London Underground
-#### Does Multiple Interchange Tube Stations Link with Higher London House Prices in 2024? 
+### London Road Casualty Risk
+#### Spatial variation across London MSOAs
 ---
-# House Prices and Underground
+# London Road Casualty Risk
 .panelset[
 .panel[
-.panel-name[Background]
-- **Idea**: 80% of Londoners have expressed that it is “fairly” and “very” important to choose property that is proximity to a station (Nationwide, 2021)
-
-- **Question**: Does the connection quality of underground stations associates with higher house prices even after accounting for location and neighbourhood?
-
-- **Data**: Main data set - 82,021 property sales across London in 2024, full technical appendix can be found in my webpage under Coursework, CASA0007 Quantitative Methods. 
-]
-
-.panel[
-.panel-name[Context]
-.pull-left-wide[
-```{r, echo=FALSE, out.width='80%', fig.align='center'}
-# Picture: london_tube
-knitr::include_graphics("../images/london_tube.png")
-```
-<p style="font-size: 0.6em; text-align: center; margin-top: 0;">
-Figure 4: House Price with Types of Tube Stations by London Boroughs in 2024   
-</p>
-]
-.pull-right-narrow[
-Central London has both the highest prices and the highest density of interchange stations
-But question, is that just because they're both in the centre?
-]
-]
-
-.panel[
-.panel-name[Context]
-.pull-left[
-```{r, echo=FALSE, out.width='100%', fig.align='center'}
-# Picture: london_tube
-knitr::include_graphics("../images/houseprice_bytubeprox.png")
-```
-<p style="font-size: 0.6em; text-align: center; margin-top: 0;">
-Figure 5: House Price by Tube Station (km), Stations are rarely identical. While proximity matters, what makes a station valuable depends on connectivity levels and its ability to offer meaningful travel time savings.  
-</p>
-]
-.pull-right[
-```{r, echo=FALSE, out.width='100%', fig.align='center'}
-# Picture: london_tube
-knitr::include_graphics("../images/houseprice_bydepriv.png")
-```
-<p style="font-size: 0.6em; text-align: center; margin-top: 0;">
-Figure 6: House Price by IMD decile, well-off neighbourhoods tend to be equipped with better infrastructure, better transport connections. If multiple interchange stations are more common within affluent areas, failing to consider wider socio-economic factors are likely to misinterpret the impacts of well-off neighbourhoods to the stations’ value itself
-</p>
-]]
-
-.panel[
-.panel-name[Context]
-```{r, echo=FALSE, out.width='80%', fig.align='center'}
-# Picture: london_tube
-knitr::include_graphics("../images/houseprice_bystation.png")
-```
-<p style="font-size: 0.6em; text-align: center; margin-top: 0;">
-Figure 7: Average House Prices by Station Types, Zooming in on the raw average prices by station types, prices are lowest near single line stations, 2 lines station are about 8.5% more expensive on average, and homes near 3+ lines stations are about 94.3% more expensive.
-</p>
-]
-]
----
-# House Prices and Underground
-.panelset[
-.panel[
-.panel-name[Regression]
-.pull-left-wide[
-```{r, echo=FALSE, out.width='80%', fig.align='center'}
-# Picture: regression
-knitr::include_graphics("../images/regression.png")
-```
-<p style="font-size: 0.6em; text-align: center; margin-top: 0;">
-Figure 8: Regression after controlling for property types, distance to central London, distance to nearest Tube station, and deprivation indicies (IMD)
-</p>
-]
-.pull-right-narrow[
-- 2-line interchange → ~8% price premium
-- 3+ line interchange → ~39% price premium
-- Each extra km from central London → ~6% lower price
-]
+.panel-name[Overview]
+- **Question**: How unevenly are annual road casualty rates distributed across London MSOAs?
+- **Methods**: spatial joins, Moran's I, LISA clusters, nested OLS, Decision Tree and Random Forest.
+- **Finding**: casualty risk is spatially structured, with clear hotspots and coldspots.
 ]
 .panel[
-.panel-name[Reflections]
-- Better connectivity is indeed a public good that improves accessibility
-
-- Transport upgrades can capitalise into land values, this may intensify local affordability pressures unless paired with housing and affordability measures.  
+.panel-name[Modelling]
+- Random Forest improved predictive performance compared with simpler interpretable baselines.
+- Collision density and spatial-intensity variables were key predictors.
+- Extreme high-risk MSOAs remain harder to predict and require closer local interpretation.
 ]
 ]
 ---

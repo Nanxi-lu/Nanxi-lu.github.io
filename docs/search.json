@@ -84,6 +84,104 @@
     "text": "Key Findings\nGambling exposure is highly uneven across London. Many neighbourhoods contain no betting shops, while a smaller number of central and East London areas experience high levels of exposure. The strongest associations appear around private renting and economic inactivity, suggesting that gambling exposure is linked to wider housing and labour-market pressure.\nThe project frames gambling as a spatial inequality issue, not only an individual behaviour question. It shows how local planning, licensing and zoning decisions can shape everyday exposure to gambling environments.\nBack to coursework"
   },
   {
+    "objectID": "dsss-road-casualty.html",
+    "href": "dsss-road-casualty.html",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "",
+    "text": "This project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines Department for Transport casualty records, MSOA boundaries, population data and deprivation indicators to examine where annual casualty rates are highest, whether high-risk areas cluster spatially, and how well neighbourhood conditions can explain or predict casualty risk.\nDownload the notebook"
+  },
+  {
+    "objectID": "dsss-road-casualty.html#project-overview",
+    "href": "dsss-road-casualty.html#project-overview",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "",
+    "text": "This project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines Department for Transport casualty records, MSOA boundaries, population data and deprivation indicators to examine where annual casualty rates are highest, whether high-risk areas cluster spatially, and how well neighbourhood conditions can explain or predict casualty risk.\nDownload the notebook"
+  },
+  {
+    "objectID": "dsss-road-casualty.html#research-focus",
+    "href": "dsss-road-casualty.html#research-focus",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "Research Focus",
+    "text": "Research Focus\n\nHow unevenly are annual road casualty rates distributed across London MSOAs?\nDo high-rate and low-rate MSOAs show significant spatial clustering?\nWhich spatial, traffic-context and deprivation variables help explain casualty risk?\nCan tree-based models improve prediction beyond an interpretable OLS baseline?"
+  },
+  {
+    "objectID": "dsss-road-casualty.html#methods",
+    "href": "dsss-road-casualty.html#methods",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "Methods",
+    "text": "Methods\n\nSpatial joining of road casualty records to 2021 MSOA boundaries.\nConstruction of annual casualty rates per 1,000 residents.\nCollision density and population density measures.\nGlobal Moran’s I and Local Indicators of Spatial Association.\nNested OLS modelling for interpretable explanation.\nDecision Tree and Random Forest regression.\nPermutation importance and partial dependence plots for model interpretation."
+  },
+  {
+    "objectID": "dsss-road-casualty.html#workflow",
+    "href": "dsss-road-casualty.html#workflow",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "Workflow",
+    "text": "Workflow\n\n\n\nMethodology flow chart"
+  },
+  {
+    "objectID": "dsss-road-casualty.html#selected-outputs",
+    "href": "dsss-road-casualty.html#selected-outputs",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "Selected Outputs",
+    "text": "Selected Outputs\n\n\n\nAverage annual road casualty rate per 1,000 residents across London MSOAs\n\n\n\n\n\nDistribution of annual average casualty rates\n\n\n\n\n\nLISA clusters of casualty risk\n\n\n\n\n\nRandom Forest observed vs predicted casualty rates\n\n\n\n\n\nRandom Forest feature importance"
+  },
+  {
+    "objectID": "dsss-road-casualty.html#key-findings",
+    "href": "dsss-road-casualty.html#key-findings",
+    "title": "Spatial Variation in Road Casualty Risk Across London MSOAs",
+    "section": "Key Findings",
+    "text": "Key Findings\nRoad casualty risk is unevenly distributed across London MSOAs and shows clear spatial structure rather than random variation. The analysis identifies hotspot and coldspot patterns, confirming that local risk is shaped by neighbourhood context.\nThe modelling results suggest that spatial-intensity variables, especially collision density, are important predictors of casualty rates. Random Forest modelling improves predictive performance and captures non-linear relationships, although the highest-risk outliers remain harder to predict.\nBack to coursework"
+  },
+  {
+    "objectID": "coursework.html",
+    "href": "coursework.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Welcome! This page showcases a collection of my academic coursework from my Master’s Degree in Urban Spatial Science and my Bachelor’s Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below."
+  },
+  {
+    "objectID": "coursework.html#msc-urban-spatial-science-university-college-london",
+    "href": "coursework.html#msc-urban-spatial-science-university-college-london",
+    "title": "Coursework",
+    "section": "MSc Urban Spatial Science, University College London",
+    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\nThis is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.\nFull report coming soon.\n\n\nNew York Evictions\nThis is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.\nFull report coming soon.\n\n\nGraffiti San Francisco\nView the full report (HTML): coming soon…\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\nThis project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.\nView the project page: Gambling Exposure in London\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\nThis project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines casualty records, MSOA boundaries, population data and deprivation indicators with spatial autocorrelation, LISA clustering, OLS and Random Forest modelling.\nView the project page: London Road Casualty Risk\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nThis project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.\nView the project page: Chicago Crime STDM Project\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\nView my Learning Diary (Webpage): CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary"
+  },
+  {
+    "objectID": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
+    "href": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
+    "title": "Coursework",
+    "section": "BSc Urban Planning and Development, Cardiff University",
+    "text": "BSc Urban Planning and Development, Cardiff University\n\nUrban Regeneration Dissertation\nMy dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.\n\n\nOther Courseworks\n\nUrban regeneration\nSustainable environment\nDeveloping research methods\nPlanning law and development management\nSite assessment and development appraisal\nPlan-making and spatial analysis"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me…",
+    "section": "",
+    "text": "I am currently an MSc Urban Spatial Science student at the Bartlett Centre for Advanced Spatial Analysis, University College London. I hold a BSc Urban Planning and Development degree from Cardiff University. I am interested in city regeneration, transport planning, spatial analysis and evidence-led urban design.\nMy work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.\nView my CV and Coursework →"
+  },
+  {
+    "objectID": "about.html#technical-proficiency",
+    "href": "about.html#technical-proficiency",
+    "title": "About me…",
+    "section": "Technical Proficiency",
+    "text": "Technical Proficiency\nLanguages: Python, SQL, R\nTools: Git and GitHub, ArcGIS Pro, QGIS, SNAP, Google Earth Engine, NetLogo, AutoCAD, SketchUp, Blender, Adobe Illustrator, Photoshop, InDesign, Microsoft Word, PowerPoint, Excel\nView my GitHub →"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "About me…",
+    "section": "Languages",
+    "text": "Languages\n\nMandarin Chinese and Shanghainese: native\nEnglish: bilingual proficiency\nFrench: B2 proficiency\nJapanese: A2 working knowledge\nGerman: A1 basic knowledge"
+  },
+  {
+    "objectID": "about.html#interests-and-hobbies",
+    "href": "about.html#interests-and-hobbies",
+    "title": "About me…",
+    "section": "Interests and Hobbies",
+    "text": "Interests and Hobbies\n\nTennis, Running, Hiking, Pilates, Painting, Baking, Travelling"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -147,67 +245,18 @@
     "text": "Music and Interests\n\nPiano: Trinity College London Grade 8 and South African National Eisteddfod Gold Medal.\nKeyboard player and music arranger for Cardiff University Orchestra.\nViolin: ABRSM Grade 6 and former concertmaster in high school’s ensemble.\nInterests include tennis, running, hiking, pilates, painting, baking and travelling.\n\nLearn more about me -&gt;"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me…",
-    "section": "",
-    "text": "I am currently an MSc Urban Spatial Science student at the Bartlett Centre for Advanced Spatial Analysis, University College London. I hold a BSc Urban Planning and Development degree from Cardiff University. I am interested in city regeneration, transport planning, spatial analysis and evidence-led urban design.\nMy work combines planning knowledge with digital and analytical tools, including GIS, spatial data science, statistical analysis and urban design software. I am committed to applying digital analytics to navigate complexity and support inclusive, practical and long-term decision-making in the built environment.\nView my CV and Coursework →"
-  },
-  {
-    "objectID": "about.html#technical-proficiency",
-    "href": "about.html#technical-proficiency",
-    "title": "About me…",
-    "section": "Technical Proficiency",
-    "text": "Technical Proficiency\nLanguages: Python, SQL, R\nTools: Git and GitHub, ArcGIS Pro, QGIS, SNAP, Google Earth Engine, NetLogo, AutoCAD, SketchUp, Blender, Adobe Illustrator, Photoshop, InDesign, Microsoft Word, PowerPoint, Excel\nView my GitHub →"
-  },
-  {
-    "objectID": "about.html#languages",
-    "href": "about.html#languages",
-    "title": "About me…",
-    "section": "Languages",
-    "text": "Languages\n\nMandarin Chinese and Shanghainese: native\nEnglish: bilingual proficiency\nFrench: B2 proficiency\nJapanese: A2 working knowledge\nGerman: A1 basic knowledge"
-  },
-  {
-    "objectID": "about.html#interests-and-hobbies",
-    "href": "about.html#interests-and-hobbies",
-    "title": "About me…",
-    "section": "Interests and Hobbies",
-    "text": "Interests and Hobbies\n\nTennis, Running, Hiking, Pilates, Painting, Baking, Travelling"
-  },
-  {
-    "objectID": "coursework.html",
-    "href": "coursework.html",
-    "title": "Coursework",
-    "section": "",
-    "text": "Welcome! This page showcases a collection of my academic coursework from my Master’s Degree in Urban Spatial Science and my Bachelor’s Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below."
-  },
-  {
-    "objectID": "coursework.html#msc-urban-spatial-science-university-college-london",
-    "href": "coursework.html#msc-urban-spatial-science-university-college-london",
-    "title": "Coursework",
-    "section": "MSc Urban Spatial Science, University College London",
-    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\nThis is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.\nFull report coming soon.\n\n\nNew York Evictions\nThis is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.\nFull report coming soon.\n\n\nGraffiti San Francisco\nView the full report (HTML): coming soon…\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\nThis project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.\nView the project page: Gambling Exposure in London\n\n\nHouse Prices and London Underground: Does Multiple Interchange Tube Stations Link with Higher London House Prices in 2024?\nDo multi-line Tube interchanges relate to higher house prices in London? This report analysed 82k+ property sales in London in 2024 from HM Land Registry Price Paid Data to test whether the connectivity level of the nearest Underground station (single-line vs 2-line vs 3+ line interchange) is associated with sale prices, controlling for property types, distance to central London, distance to nearest Tube station, and deprivation indicies (IMD). The final model explained a substantial variance (R² ≈ 0.527) and found higher prices near multi-line interchanges. Some local neighbourhood effects remain visible in the unexplained part of the model, supported by a positive Moran’s I (≈0.389). A technical appendix is included within the report.\nView the full report (PDF): London House Prices and Underground Regression Analysis 2024\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nThis project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.\nView the project page: Chicago Crime STDM Project\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\nView my Learning Diary (Webpage): CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary"
-  },
-  {
-    "objectID": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
-    "href": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
-    "title": "Coursework",
-    "section": "BSc Urban Planning and Development, Cardiff University",
-    "text": "BSc Urban Planning and Development, Cardiff University\n\nUrban Regeneration Dissertation\nMy dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.\n\n\nOther Courseworks\n\nUrban regeneration\nSustainable environment\nDeveloping research methods\nPlanning law and development management\nSite assessment and development appraisal\nPlan-making and spatial analysis"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nancy (Nanxi) Lu",
     "section": "",
-    "text": "Hello! Welcome to my portfolio page.\nI am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.\n \nAbout Coursework CV"
+    "text": "nanxi@casa:~$ portfolio --open\nurban_planning + spatial_data + evidence_led_design\n\nHello! Welcome to my portfolio page.\nI am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design.\n \nAbout Coursework CV"
   },
   {
     "objectID": "index.html#selected-work",
     "href": "index.html#selected-work",
     "title": "Nancy (Nanxi) Lu",
     "section": "Selected Work",
-    "text": "Selected Work\n\nGambling Exposure in London\nSpatial analysis of bookmaker distribution across London neighbourhoods, linking gambling exposure with housing pressure, economic inactivity and neighbourhood vulnerability.\nView project\nChicago Crime Prediction\nSpatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining hotspot mapping, temporal decomposition, ARIMA/SARIMA and Random Forest forecasting.\nView project\nLondon Housing and Tube Connectivity\nRegression analysis of whether multi-line Underground interchange stations are associated with higher London house prices, controlling for distance, property type and deprivation.\nRead report"
+    "text": "Selected Work\n\nGambling Exposure in London\nSpatial analysis of bookmaker distribution across London neighbourhoods, linking gambling exposure with housing pressure, economic inactivity and neighbourhood vulnerability.\nView project\nChicago Crime Prediction\nSpatio-temporal analysis of Chicago crime incidents from 2022 to 2024, combining hotspot mapping, temporal decomposition, ARIMA/SARIMA and Random Forest forecasting.\nView project\nLondon Road Casualty Risk\nSpatial data science project analysing road casualty risk across London MSOAs, using spatial autocorrelation, LISA clusters, OLS and Random Forest modelling.\nView project"
   },
   {
     "objectID": "index.html#research-interests",
@@ -228,27 +277,27 @@
     "href": "references.html#project-reports",
     "title": "References and Project Sources",
     "section": "Project Reports",
-    "text": "Project Reports\n\nThe Geography of Everyday Gambling Exposure in London\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nLondon House Prices and Underground Regression Analysis 2024"
+    "text": "Project Reports\n\nThe Geography of Everyday Gambling Exposure in London\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nSpatial Variation in Road Casualty Risk Across London MSOAs"
   },
   {
     "objectID": "references.html#project-pages",
     "href": "references.html#project-pages",
     "title": "References and Project Sources",
     "section": "Project Pages",
-    "text": "Project Pages\n\nGambling Exposure in London\nChicago Crime STDM Project\nCoursework Overview"
+    "text": "Project Pages\n\nGambling Exposure in London\nChicago Crime STDM Project\nLondon Road Casualty Risk\nCoursework Overview"
   },
   {
     "objectID": "references.html#data-sources-used-across-projects",
     "href": "references.html#data-sources-used-across-projects",
     "title": "References and Project Sources",
     "section": "Data Sources Used Across Projects",
-    "text": "Data Sources Used Across Projects\n\nOpenStreetMap bookmaker and gambling venue data.\n2021 UK Census neighbourhood indicators.\n2021 Middle Layer Super Output Area boundaries for Greater London.\nHM Land Registry Price Paid Data.\nLondon Underground station and transport accessibility datasets.\nCity of Chicago public crime records."
+    "text": "Data Sources Used Across Projects\n\nOpenStreetMap bookmaker and gambling venue data.\n2021 UK Census neighbourhood indicators.\n2021 Middle Layer Super Output Area boundaries for Greater London.\nUK Department for Transport road casualty records.\nLondon MSOA population and deprivation indicators.\nCity of Chicago public crime records."
   },
   {
     "objectID": "references.html#methods-referenced-across-projects",
     "href": "references.html#methods-referenced-across-projects",
     "title": "References and Project Sources",
     "section": "Methods Referenced Across Projects",
-    "text": "Methods Referenced Across Projects\n\nSpatial joins and neighbourhood-level exposure metrics.\nRegression modelling and model diagnostics.\nSpatial autocorrelation and Local Indicators of Spatial Association.\nTime-series decomposition, ARIMA and SARIMA.\nRandom Forest forecasting with engineered temporal features."
+    "text": "Methods Referenced Across Projects\n\nSpatial joins and neighbourhood-level exposure metrics.\nRegression modelling and model diagnostics.\nSpatial autocorrelation and Local Indicators of Spatial Association.\nTime-series decomposition, ARIMA and SARIMA.\nRandom Forest forecasting with engineered temporal features.\nTree-based regression, permutation importance and partial dependence plots."
   }
 ]

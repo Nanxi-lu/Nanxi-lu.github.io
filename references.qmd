@@ -8,12 +8,13 @@ This page collects the main reports, datasets and project outputs linked across 
 
 - [The Geography of Everyday Gambling Exposure in London](coursework/qm-gambling/gambling-exposure-london.pdf){target="_blank"}
 - [Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago](coursework/stdm-chicago-crime/chicago-crime-stdm-report.pdf){target="_blank"}
-- [London House Prices and Underground Regression Analysis 2024](coursework/London_Tube_PPD_Regression_2024.pdf){target="_blank"}
+- [Spatial Variation in Road Casualty Risk Across London MSOAs](coursework/dsss-road-casualty/road-casualty-risk-london.ipynb){target="_blank"}
 
 ## Project Pages
 
 - [Gambling Exposure in London](qm-gambling.qmd)
 - [Chicago Crime STDM Project](stdm-chicago-crime.qmd)
+- [London Road Casualty Risk](dsss-road-casualty.qmd)
 - [Coursework Overview](coursework.qmd)
 
 ## Data Sources Used Across Projects
@@ -21,8 +22,8 @@ This page collects the main reports, datasets and project outputs linked across 
 - OpenStreetMap bookmaker and gambling venue data.
 - 2021 UK Census neighbourhood indicators.
 - 2021 Middle Layer Super Output Area boundaries for Greater London.
-- HM Land Registry Price Paid Data.
-- London Underground station and transport accessibility datasets.
+- UK Department for Transport road casualty records.
+- London MSOA population and deprivation indicators.
 - City of Chicago public crime records.
 
 ## Methods Referenced Across Projects
@@ -32,3 +33,4 @@ This page collects the main reports, datasets and project outputs linked across 
 - Spatial autocorrelation and Local Indicators of Spatial Association.
 - Time-series decomposition, ARIMA and SARIMA.
 - Random Forest forecasting with engineered temporal features.
+- Tree-based regression, permutation importance and partial dependence plots.

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Coursework – Nancy (Nanxi) Lu</title>
+<title>Spatial Variation in Road Casualty Risk Across London MSOAs – Nancy (Nanxi) Lu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -75,8 +75,9 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="style.css">
-<meta property="og:title" content="Coursework – Nancy (Nanxi) Lu">
-<meta property="og:description" content="">
+<meta property="og:title" content="Spatial Variation in Road Casualty Risk Across London MSOAs – Nancy (Nanxi) Lu">
+<meta property="og:description" content="Data Science for Spatial Systems project">
+<meta property="og:image" content="coursework/dsss-road-casualty/rf-feature-importance.png">
 <meta property="og:site_name" content="Nancy (Nanxi) Lu">
 </head>
 
@@ -270,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./coursework.html" aria-current="page"> 
+    <a class="nav-link" href="./coursework.html"> 
 <span class="menu-text">Coursework</span></a>
   </li>  
   <li class="nav-item">
@@ -303,19 +304,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#msc-urban-spatial-science-university-college-london" id="toc-msc-urban-spatial-science-university-college-london" class="nav-link active" data-scroll-target="#msc-urban-spatial-science-university-college-london">MSc Urban Spatial Science, University College London</a>
-  <ul class="collapse">
-  <li><a href="#spatial-analysis---casa0005-geographic-information-systems-and-science" id="toc-spatial-analysis---casa0005-geographic-information-systems-and-science" class="nav-link" data-scroll-target="#spatial-analysis---casa0005-geographic-information-systems-and-science">Spatial Analysis - CASA0005 Geographic Information Systems and Science</a></li>
-  <li><a href="#casa0007-quantitative-methods" id="toc-casa0007-quantitative-methods" class="nav-link" data-scroll-target="#casa0007-quantitative-methods">CASA0007 Quantitative Methods</a></li>
-  <li><a href="#casa0006-data-science-for-spatial-systems" id="toc-casa0006-data-science-for-spatial-systems" class="nav-link" data-scroll-target="#casa0006-data-science-for-spatial-systems">CASA0006 Data Science for Spatial Systems</a></li>
-  <li><a href="#cege0042-spatial-temporal-data-analysis-and-data-mining" id="toc-cege0042-spatial-temporal-data-analysis-and-data-mining" class="nav-link" data-scroll-target="#cege0042-spatial-temporal-data-analysis-and-data-mining">CEGE0042 Spatial-Temporal Data Analysis and Data Mining</a></li>
-  <li><a href="#casa0023-remotely-sensing-cities-and-environments" id="toc-casa0023-remotely-sensing-cities-and-environments" class="nav-link" data-scroll-target="#casa0023-remotely-sensing-cities-and-environments">CASA0023 Remotely Sensing Cities and Environments</a></li>
-  </ul></li>
-  <li><a href="#bsc-urban-planning-and-development-cardiff-university" id="toc-bsc-urban-planning-and-development-cardiff-university" class="nav-link" data-scroll-target="#bsc-urban-planning-and-development-cardiff-university">BSc Urban Planning and Development, Cardiff University</a>
-  <ul class="collapse">
-  <li><a href="#urban-regeneration-dissertation" id="toc-urban-regeneration-dissertation" class="nav-link" data-scroll-target="#urban-regeneration-dissertation">Urban Regeneration Dissertation</a></li>
-  <li><a href="#other-courseworks" id="toc-other-courseworks" class="nav-link" data-scroll-target="#other-courseworks">Other Courseworks</a></li>
-  </ul></li>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#research-focus" id="toc-research-focus" class="nav-link" data-scroll-target="#research-focus">Research Focus</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#workflow" id="toc-workflow" class="nav-link" data-scroll-target="#workflow">Workflow</a></li>
+  <li><a href="#selected-outputs" id="toc-selected-outputs" class="nav-link" data-scroll-target="#selected-outputs">Selected Outputs</a></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">Key Findings</a></li>
   </ul>
 </nav>
     </div>
@@ -325,7 +319,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Coursework</h1>
+<h1 class="title">Spatial Variation in Road Casualty Risk Across London MSOAs</h1>
+<p class="subtitle lead">Data Science for Spatial Systems project</p>
 </div>
 
 
@@ -342,74 +337,81 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome! This page showcases a collection of my academic coursework from my Master’s Degree in Urban Spatial Science and my Bachelor’s Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below.</p>
-<section id="msc-urban-spatial-science-university-college-london" class="level2">
-<h2 class="anchored" data-anchor-id="msc-urban-spatial-science-university-college-london">MSc Urban Spatial Science, University College London</h2>
-<section id="spatial-analysis---casa0005-geographic-information-systems-and-science" class="level3">
-<h3 class="anchored" data-anchor-id="spatial-analysis---casa0005-geographic-information-systems-and-science">Spatial Analysis - CASA0005 Geographic Information Systems and Science</h3>
-<section id="tfl-vision-zero" class="level4">
-<h4 class="anchored" data-anchor-id="tfl-vision-zero">TfL Vision Zero</h4>
-<p>This is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.</p>
-<p>Full report coming soon.</p>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>This project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines Department for Transport casualty records, MSOA boundaries, population data and deprivation indicators to examine where annual casualty rates are highest, whether high-risk areas cluster spatially, and how well neighbourhood conditions can explain or predict casualty risk.</p>
+<p><a href="coursework/dsss-road-casualty/road-casualty-risk-london.ipynb" target="_blank">Download the notebook</a></p>
 </section>
-<section id="new-york-evictions" class="level4">
-<h4 class="anchored" data-anchor-id="new-york-evictions">New York Evictions</h4>
-<p>This is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.</p>
-<p>Full report coming soon.</p>
-</section>
-<section id="graffiti-san-francisco" class="level4">
-<h4 class="anchored" data-anchor-id="graffiti-san-francisco">Graffiti San Francisco</h4>
-<p>View the full report (HTML): coming soon…</p>
-</section>
-</section>
-<section id="casa0007-quantitative-methods" class="level3">
-<h3 class="anchored" data-anchor-id="casa0007-quantitative-methods">CASA0007 Quantitative Methods</h3>
-<section id="the-geography-of-everyday-gambling-exposure-in-london" class="level4">
-<h4 class="anchored" data-anchor-id="the-geography-of-everyday-gambling-exposure-in-london">The Geography of Everyday Gambling Exposure in London</h4>
-<p>This project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.</p>
-<p>View the project page: <a href="./qm-gambling.html">Gambling Exposure in London</a></p>
-</section>
-</section>
-<section id="casa0006-data-science-for-spatial-systems" class="level3">
-<h3 class="anchored" data-anchor-id="casa0006-data-science-for-spatial-systems">CASA0006 Data Science for Spatial Systems</h3>
-<section id="spatial-variation-in-road-casualty-risk-across-london-msoas" class="level4">
-<h4 class="anchored" data-anchor-id="spatial-variation-in-road-casualty-risk-across-london-msoas">Spatial Variation in Road Casualty Risk Across London MSOAs</h4>
-<p>This project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines casualty records, MSOA boundaries, population data and deprivation indicators with spatial autocorrelation, LISA clustering, OLS and Random Forest modelling.</p>
-<p>View the project page: <a href="./dsss-road-casualty.html">London Road Casualty Risk</a></p>
-</section>
-</section>
-<section id="cege0042-spatial-temporal-data-analysis-and-data-mining" class="level3">
-<h3 class="anchored" data-anchor-id="cege0042-spatial-temporal-data-analysis-and-data-mining">CEGE0042 Spatial-Temporal Data Analysis and Data Mining</h3>
-<section id="spatio-temporal-analysis-and-prediction-of-urban-crime-in-chicago" class="level4">
-<h4 class="anchored" data-anchor-id="spatio-temporal-analysis-and-prediction-of-urban-crime-in-chicago">Spatio-Temporal Analysis and Prediction of Urban Crime in Chicago</h4>
-<p>This project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.</p>
-<p>View the project page: <a href="./stdm-chicago-crime.html">Chicago Crime STDM Project</a></p>
-</section>
-</section>
-<section id="casa0023-remotely-sensing-cities-and-environments" class="level3">
-<h3 class="anchored" data-anchor-id="casa0023-remotely-sensing-cities-and-environments">CASA0023 Remotely Sensing Cities and Environments</h3>
-<p>View my Learning Diary (Webpage): <a href="https://nanxi-lu.github.io/RSCE/">CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary</a></p>
-</section>
-</section>
-<section id="bsc-urban-planning-and-development-cardiff-university" class="level2">
-<h2 class="anchored" data-anchor-id="bsc-urban-planning-and-development-cardiff-university">BSc Urban Planning and Development, Cardiff University</h2>
-<section id="urban-regeneration-dissertation" class="level3">
-<h3 class="anchored" data-anchor-id="urban-regeneration-dissertation">Urban Regeneration Dissertation</h3>
-<p>My dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.</p>
-</section>
-<section id="other-courseworks" class="level3">
-<h3 class="anchored" data-anchor-id="other-courseworks">Other Courseworks</h3>
+<section id="research-focus" class="level2">
+<h2 class="anchored" data-anchor-id="research-focus">Research Focus</h2>
 <ul>
-<li>Urban regeneration</li>
-<li>Sustainable environment</li>
-<li>Developing research methods</li>
-<li>Planning law and development management</li>
-<li>Site assessment and development appraisal</li>
-<li>Plan-making and spatial analysis</li>
+<li>How unevenly are annual road casualty rates distributed across London MSOAs?</li>
+<li>Do high-rate and low-rate MSOAs show significant spatial clustering?</li>
+<li>Which spatial, traffic-context and deprivation variables help explain casualty risk?</li>
+<li>Can tree-based models improve prediction beyond an interpretable OLS baseline?</li>
 </ul>
-
-
 </section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<ul>
+<li>Spatial joining of road casualty records to 2021 MSOA boundaries.</li>
+<li>Construction of annual casualty rates per 1,000 residents.</li>
+<li>Collision density and population density measures.</li>
+<li>Global Moran’s I and Local Indicators of Spatial Association.</li>
+<li>Nested OLS modelling for interpretable explanation.</li>
+<li>Decision Tree and Random Forest regression.</li>
+<li>Permutation importance and partial dependence plots for model interpretation.</li>
+</ul>
+</section>
+<section id="workflow" class="level2">
+<h2 class="anchored" data-anchor-id="workflow">Workflow</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/methodology.jpg" class="img-fluid figure-img"></p>
+<figcaption>Methodology flow chart</figcaption>
+</figure>
+</div>
+</section>
+<section id="selected-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="selected-outputs">Selected Outputs</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/casualty-rate-map.png" class="img-fluid figure-img"></p>
+<figcaption>Average annual road casualty rate per 1,000 residents across London MSOAs</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/casualty-rate-distribution.png" class="img-fluid figure-img"></p>
+<figcaption>Distribution of annual average casualty rates</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/lisa-clusters.png" class="img-fluid figure-img"></p>
+<figcaption>LISA clusters of casualty risk</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/rf-observed-predicted.png" class="img-fluid figure-img"></p>
+<figcaption>Random Forest observed vs predicted casualty rates</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="coursework/dsss-road-casualty/rf-feature-importance.png" class="img-fluid figure-img"></p>
+<figcaption>Random Forest feature importance</figcaption>
+</figure>
+</div>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key Findings</h2>
+<p>Road casualty risk is unevenly distributed across London MSOAs and shows clear spatial structure rather than random variation. The analysis identifies hotspot and coldspot patterns, confirming that local risk is shaped by neighbourhood context.</p>
+<p>The modelling results suggest that spatial-intensity variables, especially collision density, are important predictors of casualty rates. Random Forest modelling improves predictive performance and captures non-linear relationships, although the highest-risk outliers remain harder to predict.</p>
+<p><a href="./coursework.html">Back to coursework</a></p>
+
+
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
