@@ -10,17 +10,13 @@ about:
 ---
 
 ::: {#hero-heading}
-[English](index.qmd){.language-button}
+[EN](index.qmd){.language-button}
 
-::: {.hero-terminal .academic-block}
-`nanxi@casa:~$` `portfolio --open --lang zh`
-
-<span class="hero-code-line">urban_planning + spatial_data + evidence_led_design</span>
-:::
-
+::: {.academic-block .hero-summary}
 你好，欢迎来到我的个人作品集。
 
-我是一名关注 <span class="code-accent academic-accent">城市规划</span> 与 <span class="code-accent academic-accent">空间数据</span> 的学生，研究兴趣包括城市更新、交通规划、城市空间分析与循证设计。
+我是一名关注 <span class="academic-accent">城市规划</span> 与 <span class="academic-accent">空间数据</span> 的学生，研究兴趣包括城市更新、交通规划、城市空间分析与循证设计。
+:::
 
 [<i class="bi bi-github" style="font-size: 1.5rem;"></i>](https://github.com/Nanxi-lu) [<i class="bi bi-envelope" style="font-size: 1.5rem;"></i>](mailto:nanxi.lu.25@ucl.ac.uk)
 

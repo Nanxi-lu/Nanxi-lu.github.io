@@ -47,11 +47,6 @@ body.quarto-dark .navbar .navbar-toggler-icon {
   filter: invert(1) !important;
 }
 
-#hero-heading {
-  --code-accent: #0f766e;
-  --code-accent-soft: rgba(15, 118, 110, 0.12);
-}
-
 #hero-heading p {
   line-height: 1.65;
 }
@@ -61,7 +56,7 @@ body.quarto-dark .navbar .navbar-toggler-icon {
   border-left: 4px solid #2c3e50;
   padding: 15px 20px;
   margin-bottom: 25px;
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: #333333;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
@@ -70,6 +65,20 @@ body.quarto-dark .navbar .navbar-toggler-icon {
 .academic-block:hover {
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
   transform: translateX(3px);
+}
+
+.hero-summary {
+  max-width: min(100%, 42rem);
+  margin: 0.35rem 0 1rem;
+  text-align: left;
+}
+
+.hero-summary p {
+  margin: 0 0 0.65rem;
+}
+
+.hero-summary p:last-child {
+  margin-bottom: 0;
 }
 
 .academic-accent {
@@ -147,89 +156,14 @@ body.quarto-dark .navbar .navbar-toggler-icon {
   transform: translateY(-1px);
 }
 
-.hero-terminal {
-  display: inline-block;
-  max-width: min(100%, 42rem);
-  margin: 0.35rem 0 1rem;
-  padding: 0.85rem 1rem;
-  border: 1px solid rgba(15, 118, 110, 0.24);
-  border-left: 4px solid #2c3e50;
-  border-radius: 8px;
-  background: linear-gradient(135deg, rgba(15, 118, 110, 0.08), rgba(14, 165, 233, 0.06));
-  font-family: "SFMono-Regular", "Cascadia Code", "Roboto Mono", Consolas, monospace;
-  font-size: clamp(0.88rem, 1.7vw, 1rem);
-  text-align: left;
-}
-
-.hero-terminal p {
-  margin: 0;
-}
-
-.hero-terminal code {
-  color: var(--code-accent);
-  background: transparent;
-  padding: 0;
-}
-
-.hero-code-line {
-  display: inline-block;
-  width: 0;
-  max-width: 100%;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 0.12em solid var(--code-accent);
-  color: #155e75;
-  animation: typing 3.4s steps(56, end) 0.35s forwards, cursor-blink 0.9s step-end infinite;
-}
-
-.code-accent {
-  display: inline-block;
-  padding: 0.04rem 0.32rem;
-  border-radius: 6px;
-  font-size: 0.95em;
-}
-
 #hero-heading .about-links {
   margin-left: 0;
-}
-
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 56ch;
-  }
-}
-
-@keyframes cursor-blink {
-  50% {
-    border-color: transparent;
-  }
-}
-
-html[data-bs-theme="dark"] #hero-heading,
-body.quarto-dark #hero-heading {
-  --code-accent: #2dd4bf;
-  --code-accent-soft: rgba(45, 212, 191, 0.16);
-}
-
-html[data-bs-theme="dark"] .hero-terminal,
-body.quarto-dark .hero-terminal {
-  background: linear-gradient(135deg, rgba(45, 212, 191, 0.12), rgba(56, 189, 248, 0.08));
-  border-color: rgba(45, 212, 191, 0.28);
-  border-left-color: #2dd4bf;
-  color: #e5e7eb;
-}
-
-html[data-bs-theme="dark"] .hero-code-line,
-body.quarto-dark .hero-code-line {
-  color: #a5f3fc;
 }
 
 html[data-bs-theme="dark"] .academic-block,
 body.quarto-dark .academic-block {
   background-color: rgba(255, 255, 255, 0.06);
+  border-left-color: #2dd4bf;
   color: #e5e7eb;
 }
 
@@ -266,23 +200,6 @@ body.quarto-dark .language-button:hover,
 body.quarto-dark .language-button:focus {
   color: #ffffff;
   background-color: rgba(45, 212, 191, 0.2);
-}
-
-@media (max-width: 560px) {
-  .hero-code-line {
-    white-space: normal;
-    width: auto;
-    border-right: 0;
-    animation: none;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .hero-code-line {
-    width: auto;
-    border-right: 0;
-    animation: none;
-  }
 }
 
 .project-grid {
