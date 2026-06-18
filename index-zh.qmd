@@ -5,7 +5,7 @@ image: images/profile_pic.jpg
 about:
   id: hero-heading
   template: trestles
-  image-width: 15em
+  image-width: 20em
   image-shape: rounded
 ---
 
