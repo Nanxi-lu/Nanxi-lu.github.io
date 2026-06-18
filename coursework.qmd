@@ -48,10 +48,6 @@ This project analyses Chicago crime incidents from 2022 to 2024 using explorator
 
 View the project page: [Chicago Crime STDM Project](stdm-chicago-crime.qmd)
 
-### CASA0023 Remotely Sensing Cities and Environments
-
-View my Learning Diary (Webpage): [CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
-
 ## BSc Urban Planning and Development, Cardiff University
 
 ### Urban Regeneration Dissertation

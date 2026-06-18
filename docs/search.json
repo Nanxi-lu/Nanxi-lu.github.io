@@ -242,7 +242,7 @@
     "href": "cv.html#volunteering",
     "title": "Curriculum Vitae",
     "section": "Volunteering",
-    "text": "Volunteering\n\nCityPedia - Sustainable Transportation | January 2023 - Present\n\nTranslator and proofreader, translating academic research and industry news for non-English readers.\nConnected with global built environment and transport professionals through a volunteer network of more than 1,000 members.\n\n\n\nPlanning Aid Wales | December 2024 - August 2025\n\nGuided local communities and individuals through the Welsh planning system.\nAssisted with training sessions on planning legislation and best practice.\nConducted policy research, prepared briefing documents and helped refine outreach strategies for community engagement.\nMaintained records to support timely follow-up and issue resolution.\n\n\n\nCommunity Volunteering\n\nSupported food distribution in local communities through privately organised family and personal networks.\nVolunteer member with the Agency for Volunteer Service Hong Kong.\nVolunteered with Crossroads Foundation’s Global Distribution Computer Department through the AVS Miracle Summer Programme in August 2024."
+    "text": "Volunteering\n\nCityPedia - Sustainable Transportation | January 2023 - Present\n\nTranslator and proofreader, translating academic research and industry news for non-English readers.\nConnected with global built environment and transport professionals through a volunteer network of more than 1,000 members.\n\n\n\nPlanning Aid Wales | December 2024 - August 2025\n\nGuided local communities and individuals through the Welsh planning system.\nAssisted with training sessions on planning legislation and best practice.\nConducted policy research, prepared briefing documents and helped refine outreach strategies for community engagement.\nMaintained records to support timely follow-up and issue resolution."
   },
   {
     "objectID": "cv.html#music-and-interests",
@@ -254,23 +254,23 @@
   {
     "objectID": "coursework.html",
     "href": "coursework.html",
-    "title": "Coursework",
+    "title": "简历",
     "section": "",
     "text": "Welcome! This page showcases a collection of my academic coursework from my Master’s Degree in Urban Spatial Science and my Bachelor’s Degree in Urban Planning and Development. Both completed works and projects currently in progress are included below."
   },
   {
     "objectID": "coursework.html#msc-urban-spatial-science-university-college-london",
     "href": "coursework.html#msc-urban-spatial-science-university-college-london",
-    "title": "Coursework",
+    "title": "简历",
     "section": "MSc Urban Spatial Science, University College London",
-    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\nThis is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.\nFull report coming soon.\n\n\nNew York Evictions\nThis is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.\nFull report coming soon.\n\n\nGraffiti San Francisco\nView the full report (HTML): coming soon…\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\nThis project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.\nView the project page: Gambling Exposure in London\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\nThis project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines casualty records, MSOA boundaries, population data and deprivation indicators with spatial autocorrelation, LISA clustering, OLS and Random Forest modelling.\nView the project page: London Road Casualty Risk\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nThis project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.\nView the project page: Chicago Crime STDM Project\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\nView my Learning Diary (Webpage): CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary"
+    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\nThis is a spatial hotspot analysis examining where deaths and serious injuries cluster across London in 2024 using casualty data provided by TfL. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas and discuss policy implications for Vision Zero.\nFull report coming soon.\n\n\nNew York Evictions\nThis is a spatial hotspot analysis examining where eviction activities cluster across New York in 2020 using evictions data provided by NYC Open Data. The analysis applied point pattern analysis methods and spatial autocorrelation methods to identify statistically significant hotspot and coldspot areas, discussing areas to be prioritiesed for policy interventions.\nFull report coming soon.\n\n\nGraffiti San Francisco\nView the full report (HTML): coming soon…\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\nThis project examines how betting shops are distributed across London neighbourhoods and whether exposure is linked to deprivation, housing pressure and labour-market vulnerability. It combines spatial joining, neighbourhood-level exposure metrics, regression modelling and risk mapping.\nView the project page: Gambling Exposure in London\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\nThis project investigates spatial inequality in road casualty risk across London neighbourhoods. It combines casualty records, MSOA boundaries, population data and deprivation indicators with spatial autocorrelation, LISA clustering, OLS and Random Forest modelling.\nView the project page: London Road Casualty Risk\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\nThis project analyses Chicago crime incidents from 2022 to 2024 using exploratory spatial-temporal analysis, spatial autocorrelation, hotspot mapping and predictive modelling. It compares naive, ARIMA, SARIMA and Random Forest approaches for short-term crime forecasting.\nView the project page: Chicago Crime STDM Project"
   },
   {
     "objectID": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
     "href": "coursework.html#bsc-urban-planning-and-development-cardiff-university",
-    "title": "Coursework",
+    "title": "简历",
     "section": "BSc Urban Planning and Development, Cardiff University",
-    "text": "BSc Urban Planning and Development, Cardiff University\n\nUrban Regeneration Dissertation\nMy dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.\n\n\nOther Courseworks\n\nUrban regeneration\nSustainable environment\nDeveloping research methods\nPlanning law and development management\nSite assessment and development appraisal\nPlan-making and spatial analysis"
+    "text": "BSc Urban Planning and Development, Cardiff University\n\nUrban Regeneration Dissertation\nMy dissertation compared urban regeneration in Cardiff Bay, UK and Durban Port, South Africa, examining how waterfront regeneration approaches differ across planning, governance and socio-economic contexts.\n\n\nOther Courseworks\n\nUrban regeneration\nSustainable environment\nDeveloping research methods\nPlanning law and development management\nSite assessment and development appraisal\nPlan-making and spatial analysis\n\n\n\nEnglish\n本页展示我在 MSc Urban Spatial Science 与 BSc Urban Planning and Development 期间完成的部分课程项目，包括已完成作品与仍在完善的研究方向。"
   },
   {
     "objectID": "about.html",
@@ -340,7 +340,7 @@
     "href": "coursework-zh.html#msc-urban-spatial-science-university-college-london",
     "title": "课程作品",
     "section": "MSc Urban Spatial Science, University College London",
-    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\n该项目使用 TfL 2024 年伤亡数据，分析伦敦死亡与重伤交通事故的空间聚集位置。研究采用点模式分析和空间自相关方法，识别显著热点与冷点，并讨论其对 Vision Zero 政策的启示。\n完整报告整理中。\n\n\nNew York Evictions\n该项目使用 NYC Open Data 的 2020 年驱逐数据，分析纽约驱逐活动的空间聚集格局，并讨论哪些地区应被优先纳入政策干预。\n完整报告整理中。\n\n\nGraffiti San Francisco\n完整报告整理中。\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\n该项目分析伦敦博彩店在社区尺度上的分布，并探讨博彩暴露是否与贫困、住房压力和劳动力市场脆弱性相关。项目结合空间连接、社区暴露指标、回归建模与风险制图。\n查看项目页面：伦敦博彩暴露\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\n该项目研究伦敦不同社区道路伤亡风险的空间不平等。项目结合道路伤亡记录、MSOA 边界、人口与贫困指标，并应用空间自相关、LISA 聚类、OLS 与随机森林模型。\n查看项目页面：伦敦道路伤亡风险\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\n该项目分析 2022 至 2024 年芝加哥犯罪事件，结合探索性时空分析、空间自相关、热点制图与预测模型，并比较朴素基线、ARIMA、SARIMA 与随机森林的短期预测表现。\n查看项目页面：芝加哥犯罪 STDM 项目\n\n\n\nCASA0023 Remotely Sensing Cities and Environments\n查看学习日志：CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary"
+    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\n该项目使用 TfL 2024 年伤亡数据，分析伦敦死亡与重伤交通事故的空间聚集位置。研究采用点模式分析和空间自相关方法，识别显著热点与冷点，并讨论其对 Vision Zero 政策的启示。\n完整报告整理中。\n\n\nNew York Evictions\n该项目使用 NYC Open Data 的 2020 年驱逐数据，分析纽约驱逐活动的空间聚集格局，并讨论哪些地区应被优先纳入政策干预。\n完整报告整理中。\n\n\nGraffiti San Francisco\n完整报告整理中。\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\n该项目分析伦敦博彩店在社区尺度上的分布，并探讨博彩暴露是否与贫困、住房压力和劳动力市场脆弱性相关。项目结合空间连接、社区暴露指标、回归建模与风险制图。\n查看项目页面：伦敦博彩暴露\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\n该项目研究伦敦不同社区道路伤亡风险的空间不平等。项目结合道路伤亡记录、MSOA 边界、人口与贫困指标，并应用空间自相关、LISA 聚类、OLS 与随机森林模型。\n查看项目页面：伦敦道路伤亡风险\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\n该项目分析 2022 至 2024 年芝加哥犯罪事件，结合探索性时空分析、空间自相关、热点制图与预测模型，并比较朴素基线、ARIMA、SARIMA 与随机森林的短期预测表现。\n查看项目页面：芝加哥犯罪 STDM 项目"
   },
   {
     "objectID": "coursework-zh.html#bsc-urban-planning-and-development-cardiff-university",
@@ -403,7 +403,7 @@
     "href": "cv-zh.html#志愿经历",
     "title": "简历",
     "section": "志愿经历",
-    "text": "志愿经历\n\nCityPedia - Sustainable Transportation | 2023.01 - 至今\n\n担任翻译与校对，将学术研究与行业新闻翻译给非英语读者。\n通过超过 1,000 名成员的志愿网络，与全球建成环境与交通领域专业人士保持交流。\n\n\n\nPlanning Aid Wales | 2024.12 - 2025.08\n\n协助地方社区与个人理解威尔士规划体系。\n支持规划法规与最佳实践培训。\n进行政策研究、准备简报，并协助改进社区参与策略。\n\n\n\n社区志愿服务\n\n通过家庭与个人网络支持本地社区食物分发。\nAgency for Volunteer Service Hong Kong 志愿成员。\n参与 Crossroads Foundation Global Distribution Computer Department 与 AVS Miracle Summer Programme。"
+    "text": "志愿经历\n\nCityPedia - Sustainable Transportation | 2023.01 - 至今\n\n担任翻译与校对，将学术研究与行业新闻翻译给非英语读者。\n通过超过 1,000 名成员的志愿网络，与全球建成环境与交通领域专业人士保持交流。\n\n\n\nPlanning Aid Wales | 2024.12 - 2025.08\n\n协助地方社区与个人理解威尔士规划体系。\n支持规划法规与最佳实践培训。\n进行政策研究、准备简报，并协助改进社区参与策略。"
   },
   {
     "objectID": "cv-zh.html#音乐与兴趣",
@@ -600,5 +600,131 @@
     "title": "芝加哥城市犯罪的时空分析与预测",
     "section": "主要发现",
     "text": "主要发现\n犯罪事件呈现明显空间聚集，热点持续出现在芝加哥中心区、西部与南部部分区域。时间上，犯罪在温暖月份、傍晚与周末更为集中。\n在预测任务中，随机森林优于朴素基线、ARIMA 与 SARIMA，说明经过设计的时间特征能够更好捕捉短期波动。\n返回课程作品"
+  },
+  {
+    "objectID": "coursework.html#msc-urban-spatial-science-university-college-london-1",
+    "href": "coursework.html#msc-urban-spatial-science-university-college-london-1",
+    "title": "简历",
+    "section": "MSc Urban Spatial Science, University College London",
+    "text": "MSc Urban Spatial Science, University College London\n\nSpatial Analysis - CASA0005 Geographic Information Systems and Science\n\nTfL Vision Zero\n该项目使用 TfL 2024 年伤亡数据，分析伦敦死亡与重伤交通事故的空间聚集位置。研究采用点模式分析和空间自相关方法，识别显著热点与冷点，并讨论其对 Vision Zero 政策的启示。\n完整报告整理中。\n\n\nNew York Evictions\n该项目使用 NYC Open Data 的 2020 年驱逐数据，分析纽约驱逐活动的空间聚集格局，并讨论哪些地区应被优先纳入政策干预。\n完整报告整理中。\n\n\nGraffiti San Francisco\n完整报告整理中。\n\n\n\nCASA0007 Quantitative Methods\n\nThe Geography of Everyday Gambling Exposure in London\n该项目分析伦敦博彩店在社区尺度上的分布，并探讨博彩暴露是否与贫困、住房压力和劳动力市场脆弱性相关。项目结合空间连接、社区暴露指标、回归建模与风险制图。\n查看项目页面：伦敦博彩暴露\n\n\n\nCASA0006 Data Science for Spatial Systems\n\nSpatial Variation in Road Casualty Risk Across London MSOAs\n该项目研究伦敦不同社区道路伤亡风险的空间不平等。项目结合道路伤亡记录、MSOA 边界、人口与贫困指标，并应用空间自相关、LISA 聚类、OLS 与随机森林模型。\n查看项目页面：伦敦道路伤亡风险\n\n\n\nCEGE0042 Spatial-Temporal Data Analysis and Data Mining\n\nSpatio-Temporal Analysis and Prediction of Urban Crime in Chicago\n该项目分析 2022 至 2024 年芝加哥犯罪事件，结合探索性时空分析、空间自相关、热点制图与预测模型，并比较朴素基线、ARIMA、SARIMA 与随机森林的短期预测表现。\n查看项目页面：芝加哥犯罪 STDM 项目"
+  },
+  {
+    "objectID": "coursework.html#bsc-urban-planning-and-development-cardiff-university-1",
+    "href": "coursework.html#bsc-urban-planning-and-development-cardiff-university-1",
+    "title": "简历",
+    "section": "BSc Urban Planning and Development, Cardiff University",
+    "text": "BSc Urban Planning and Development, Cardiff University\n\n城市更新毕业论文\n我的本科论文比较了英国 Cardiff Bay 与南非 Durban Port 的城市更新，分析不同滨水区更新路径在规划、治理与社会经济背景中的差异。\n\n\n其他课程方向\n\n城市更新\n可持续环境\n研究方法\n规划法与开发管理\n场地评估与开发评价\n规划编制与空间分析"
+  },
+  {
+    "objectID": "coursework.html#nancy-nanxi-lu",
+    "href": "coursework.html#nancy-nanxi-lu",
+    "title": "简历",
+    "section": "Nancy (Nanxi) Lu",
+    "text": "Nancy (Nanxi) Lu\n+44 7579 958 424 | Nanxiliam@hotmail.com | nanxi.lu.25@ucl.ac.uk | LinkedIn"
+  },
+  {
+    "objectID": "coursework.html#profile",
+    "href": "coursework.html#profile",
+    "title": "简历",
+    "section": "Profile",
+    "text": "Profile\nI am an urban planning and spatial data student interested in city regeneration, transport planning, urban spatial analysis and evidence-led design. My work combines planning knowledge with digital and analytical tools, including CAD, SketchUp, Photoshop, Illustrator, ArcGIS, QGIS, SQL, R, Python, NetLogo, machine learning and data mining.\nI have a strong understanding of UK planning systems, development processes and site assessment, with experience producing clear recommendations for practical and operational decisions. I am a diligent, adaptable and collaborative learner, with experience coordinating teamwork and contributing within multidisciplinary planning, design and transport environments."
+  },
+  {
+    "objectID": "coursework.html#education",
+    "href": "coursework.html#education",
+    "title": "简历",
+    "section": "Education",
+    "text": "Education\nBrowse my coursework -&gt;\n\nMSc Urban Spatial Science, University College London, London, UK | September 2025 - September 2026\n\nRoyal Geographical Society with IBG accredited.\nCore modules include Geographic Information Systems and Science, Data Science for Spatial Systems, Building Spatial Applications with Big Data, Spatial-Temporal Data Analysis and Data Mining, and Agent-Based Modelling.\nDeveloping skills in spatial data analysis, geographic information systems, data science and urban modelling to analyse, visualise and apply complex spatial datasets to real-world urban challenges.\n\n\n\nBSc Urban Planning and Development (Hons), Cardiff University, Cardiff, UK | September 2022 - July 2025\n\nRICS and RTPI accredited.\nAwarded the Vice-Chancellor’s Scholarship for entry.\nDissertation: A Comparative Study of Regeneration in Cardiff Bay and Durban Port.\nRelevant modules include Urban Regeneration, Sustainable Environment and Developing Research Methods.\nBuilt a strong foundation in British planning legislation, sustainability principles, urban policy, site assessment, development processes and evidence-based planning.\n\n\n\nNational Senior Certificate, The Wykeham Collegiate, Pietermaritzburg, South Africa | January 2017 - December 2021\n\nSouth African IEB syllabus, equivalent to AAA at A-Level.\nTop 100 in KwaZulu-Natal for the National Mathematics Olympiad.\nSilver Medal for the National English Olympiad.\nBowman-Edgar Trophy for hard work and excellence."
+  },
+  {
+    "objectID": "coursework.html#experience",
+    "href": "coursework.html#experience",
+    "title": "简历",
+    "section": "Experience",
+    "text": "Experience\n\nAssistant Transport Analyst, Liverpool City Region Combined Authority, Liverpool, UK | May 2026 - Present\n\nSupport the monitoring and evaluation of Liverpool City Region transport schemes by analysing how usage changes after new infrastructure is delivered.\n\n\n\nTransport Planning Intern, U.A Design China Ltd., Shanghai, China | September 2024 - November 2024\n\nAssisted planning and architecture teams on design projects in Shanghai during a remote role.\nPrepared development surveying reports based on regulatory planning documents.\nProduced transport planning maps and contributed to project presentations.\n\n\n\nPlanning Intern, Tus Design Group Ltd., Suzhou, China | June 2024 - August 2024\n\nContributed to tourism planning, industrial park planning and community street regeneration projects.\nSupported master planning work through research, 3D modelling, preliminary rendering and investment recommendations.\nUsed ArcGIS and regulatory maps to design proposed upgrades for outdated facilities in the Suzhou Pingjiang District Regeneration project.\nConducted resident surveys and contributed ethnographic research to support local regeneration recommendations.\nCollaborated with Architecture and BIM teams to integrate spatial-temporal data into a regulatory master plan for an Inner Mongolia industrial park, aligned with environmental sustainability legislation.\nContributed to work that won the Suzhou Urban and Rural Construction System Outstanding Survey and Design Urban Planning Second Prize in 2024.\nConducted historical research for a tourism project, joined site visits and drone-supported fieldwork, and helped develop project proposals.\n\n\n\nPlanning Intern, Jinghailang Planning Institute, Nantong, China | June 2023 - August 2023\n\nWorked on the Qidong Ancient City tourism development project by researching, building an evaluation system and assessing cultural tourism potential.\nContributed to a project ranked in the Top 10 of the Jiangsu Province Tourism Development Project in 2023.\n\n\n\nLandscape Architecture Summer Trainee, SANFIELD (Management) Ltd., Sun Hung Kai Properties, Hong Kong | July 2021 - August 2021\n\nAssisted with material selection, planning and execution of landscape projects, including showroom preparation for the Central Peak property development.\nCompleted a public park redevelopment design project using AutoCAD, SketchUp and Photoshop.\n\n\n\nDesign Assistant Intern, GYSO Pearls & Jewellery Ltd., Hong Kong | July 2020 - August 2020\n\nManaged showroom materials and edited Photoshop visuals for marketing use."
+  },
+  {
+    "objectID": "coursework.html#leadership-and-achievements",
+    "href": "coursework.html#leadership-and-achievements",
+    "title": "简历",
+    "section": "Leadership and Achievements",
+    "text": "Leadership and Achievements\n\nVice Chair of the School Student Staff Panel, coordinating meetings between academic staff and student representatives and synthesising feedback on teaching and campus experience.\nAcademic Representative in Year One, acting as a formal liaison between students and the school.\nFounding Secretary of the Cardiff University Digital Urbanist Society, supporting society setup and administration.\nHead of Culture and Head of Strings Ensemble in high school.\nIEMA Foundation Certificate in Environmental Management Level 3, completed in January 2025."
+  },
+  {
+    "objectID": "coursework.html#skills",
+    "href": "coursework.html#skills",
+    "title": "简历",
+    "section": "Skills",
+    "text": "Skills\n\nSpatial Analysis, Data and Planning Tools\n\nArcGIS, QGIS, Google Earth Engine, SatScan, SNAP and NetLogo.\nPython, R, SQL, SPSS, machine learning and data mining.\nAutoCAD, SketchUp, Blender, Adobe Photoshop, Illustrator and InDesign.\nMicrosoft Word, PowerPoint and Excel for reporting, presentations and data handling.\nGit and GitHub.\n\n\n\nLanguages\n\nMandarin Chinese and Shanghainese: native.\nEnglish: bilingual proficiency.\nFrench: B2 proficiency.\nJapanese: A2 working knowledge.\nGerman: A1 basic knowledge."
+  },
+  {
+    "objectID": "coursework.html#volunteering",
+    "href": "coursework.html#volunteering",
+    "title": "简历",
+    "section": "Volunteering",
+    "text": "Volunteering\n\nCityPedia - Sustainable Transportation | January 2023 - Present\n\nTranslator and proofreader, translating academic research and industry news for non-English readers.\nConnected with global built environment and transport professionals through a volunteer network of more than 1,000 members.\n\n\n\nPlanning Aid Wales | December 2024 - August 2025\n\nGuided local communities and individuals through the Welsh planning system.\nAssisted with training sessions on planning legislation and best practice.\nConducted policy research, prepared briefing documents and helped refine outreach strategies for community engagement.\nMaintained records to support timely follow-up and issue resolution."
+  },
+  {
+    "objectID": "coursework.html#music-and-interests",
+    "href": "coursework.html#music-and-interests",
+    "title": "简历",
+    "section": "Music and Interests",
+    "text": "Music and Interests\n\nPiano: Trinity College London Grade 8 and South African National Eisteddfod Gold Medal.\nKeyboard player and music arranger for Cardiff University Orchestra.\nViolin: ABRSM Grade 6 and former concertmaster in high school’s ensemble.\nInterests include tennis, running, hiking, pilates, painting, baking and travelling.\n\nLearn more about me -&gt;\nEnglish"
+  },
+  {
+    "objectID": "coursework.html#nancy-nanxi-lu-陆南希",
+    "href": "coursework.html#nancy-nanxi-lu-陆南希",
+    "title": "简历",
+    "section": "Nancy (Nanxi) Lu / 陆南希",
+    "text": "Nancy (Nanxi) Lu / 陆南希\n+44 7579 958 424 | Nanxiliam@hotmail.com | nanxi.lu.25@ucl.ac.uk | LinkedIn"
+  },
+  {
+    "objectID": "coursework.html#个人简介",
+    "href": "coursework.html#个人简介",
+    "title": "简历",
+    "section": "个人简介",
+    "text": "个人简介\n我是一名城市规划与空间数据方向学生，关注城市更新、交通规划、城市空间分析与循证设计。我的项目结合规划知识与数字分析工具，包括 CAD、SketchUp、Photoshop、Illustrator、ArcGIS、QGIS、SQL、R、Python、NetLogo、机器学习与数据挖掘。\n我熟悉英国规划体系、开发流程与场地评估，并具备将数据分析转化为清晰建议的经验。我学习能力强，适应性好，重视协作，也有在多学科规划、设计与交通环境中工作的经历。"
+  },
+  {
+    "objectID": "coursework.html#教育经历",
+    "href": "coursework.html#教育经历",
+    "title": "简历",
+    "section": "教育经历",
+    "text": "教育经历\n查看课程作品 -&gt;\n\nMSc Urban Spatial Science, University College London, London, UK | 2025.09 - 2026.09\n\nRoyal Geographical Society with IBG 认证。\n核心课程包括 Geographic Information Systems and Science、Data Science for Spatial Systems、Building Spatial Applications with Big Data、Spatial-Temporal Data Analysis and Data Mining、Agent-Based Modelling。\n发展空间数据分析、GIS、数据科学与城市建模能力，用于分析、可视化并应用复杂城市空间数据。\n\n\n\nBSc Urban Planning and Development (Hons), Cardiff University, Cardiff, UK | 2022.09 - 2025.07\n\nRICS 与 RTPI 认证。\n获 Vice-Chancellor’s Scholarship 入学奖学金。\n毕业论文：A Comparative Study of Regeneration in Cardiff Bay and Durban Port。\n相关课程包括 Urban Regeneration、Sustainable Environment、Developing Research Methods。\n建立了英国规划法、可持续发展原则、城市政策、场地评估与循证规划的基础。\n\n\n\nNational Senior Certificate, The Wykeham Collegiate, Pietermaritzburg, South Africa | 2017.01 - 2021.12\n\n南非 IEB 课程体系，约等同于 A-Level AAA。\nKwaZulu-Natal National Mathematics Olympiad 前 100。\nNational English Olympiad 银奖。\nBowman-Edgar Trophy，表彰勤奋与卓越。"
+  },
+  {
+    "objectID": "coursework.html#工作与实习经历",
+    "href": "coursework.html#工作与实习经历",
+    "title": "简历",
+    "section": "工作与实习经历",
+    "text": "工作与实习经历\n\nAssistant Transport Analyst, Liverpool City Region Combined Authority, Liverpool, UK | 2026.05 - 至今\n\n支持 Liverpool City Region 交通项目监测与评估，分析新基础设施投入后交通使用变化。\n\n\n\nTransport Planning Intern, U.A Design China Ltd., Shanghai, China | 2024.09 - 2024.11\n\n远程支持上海规划与建筑设计项目。\n根据法定规划文件撰写开发调研报告。\n绘制交通规划图并参与项目汇报。\n\n\n\nPlanning Intern, Tus Design Group Ltd., Suzhou, China | 2024.06 - 2024.08\n\n参与旅游规划、产业园规划与社区街道更新项目。\n通过研究、三维建模、初步渲染与投资建议支持总体规划。\n使用 ArcGIS 与法定规划图为苏州平江区更新提出设施改善方案。\n进行居民调研，为地方更新建议提供民族志观察。\n与建筑与 BIM 团队合作，将时空数据融入内蒙古产业园法定总体规划。\n参与项目获得 2024 年苏州市城乡建设系统优秀勘察设计城市规划二等奖。\n\n\n\nPlanning Intern, Jinghailang Planning Institute, Nantong, China | 2023.06 - 2023.08\n\n参与启东古城旅游开发项目，进行研究、评价体系构建与文化旅游潜力评估。\n项目入选 2023 年江苏省旅游开发项目 Top 10。\n\n\n\nLandscape Architecture Summer Trainee, SANFIELD (Management) Ltd., Sun Hung Kai Properties, Hong Kong | 2021.07 - 2021.08\n\n协助景观项目材料选择、规划执行与 Central Peak 项目展厅准备。\n使用 AutoCAD、SketchUp 与 Photoshop 完成公共公园更新设计任务。\n\n\n\nDesign Assistant Intern, GYSO Pearls & Jewellery Ltd., Hong Kong | 2020.07 - 2020.08\n\n管理展厅材料，并使用 Photoshop 编辑营销视觉素材。"
+  },
+  {
+    "objectID": "coursework.html#领导力与证书",
+    "href": "coursework.html#领导力与证书",
+    "title": "简历",
+    "section": "领导力与证书",
+    "text": "领导力与证书\n\nSchool Student Staff Panel 副主席，协调师生会议并整理教学与校园体验反馈。\n大一 Academic Representative，担任学生与学院之间的正式沟通桥梁。\nCardiff University Digital Urbanist Society 创会秘书。\n高中 Head of Culture 与 Head of Strings Ensemble。\nIEMA Foundation Certificate in Environmental Management Level 3，2025 年 1 月完成。"
+  },
+  {
+    "objectID": "coursework.html#技能",
+    "href": "coursework.html#技能",
+    "title": "简历",
+    "section": "技能",
+    "text": "技能\n\n空间分析、数据与规划工具\n\nArcGIS、QGIS、Google Earth Engine、SatScan、SNAP、NetLogo。\nPython、R、SQL、SPSS、机器学习、数据挖掘。\nAutoCAD、SketchUp、Blender、Adobe Photoshop、Illustrator、InDesign。\nMicrosoft Word、PowerPoint、Excel。\nGit 与 GitHub。\n\n\n\n语言\n\n普通话与上海话：母语。\n英语：双语能力。\n法语：B2。\n日语：A2。\n德语：A1。"
+  },
+  {
+    "objectID": "coursework.html#志愿经历",
+    "href": "coursework.html#志愿经历",
+    "title": "简历",
+    "section": "志愿经历",
+    "text": "志愿经历\n\nCityPedia - Sustainable Transportation | 2023.01 - 至今\n\n担任翻译与校对，将学术研究与行业新闻翻译给非英语读者。\n通过超过 1,000 名成员的志愿网络，与全球建成环境与交通领域专业人士保持交流。\n\n\n\nPlanning Aid Wales | 2024.12 - 2025.08\n\n协助地方社区与个人理解威尔士规划体系。\n支持规划法规与最佳实践培训。\n进行政策研究、准备简报，并协助改进社区参与策略。"
+  },
+  {
+    "objectID": "coursework.html#音乐与兴趣",
+    "href": "coursework.html#音乐与兴趣",
+    "title": "简历",
+    "section": "音乐与兴趣",
+    "text": "音乐与兴趣\n\n钢琴：Trinity College London Grade 8，South African National Eisteddfod 金奖。\nCardiff University Orchestra 键盘演奏与音乐编排。\n小提琴：ABRSM Grade 6，高中乐团首席。\n兴趣包括网球、跑步、徒步、普拉提、绘画、烘焙与旅行。\n\n了解更多 -&gt;"
   }
 ]

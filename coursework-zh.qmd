@@ -50,10 +50,6 @@ title: "课程作品"
 
 查看项目页面：[芝加哥犯罪 STDM 项目](stdm-chicago-crime-zh.qmd)
 
-### CASA0023 Remotely Sensing Cities and Environments
-
-查看学习日志：[CASA0023 Remotely Sensing Cities and Environments 25/26 Learning Diary](https://nanxi-lu.github.io/RSCE/)
-
 ## BSc Urban Planning and Development, Cardiff University
 
 ### 城市更新毕业论文
